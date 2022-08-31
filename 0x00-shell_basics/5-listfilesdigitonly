@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ls -cl
+ls -n
