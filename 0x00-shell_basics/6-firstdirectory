@@ -1,1 +1,1 @@
-my_first_directory
+#!/bin/bash echo mkdir my_first_directory
